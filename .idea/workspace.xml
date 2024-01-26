@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02516d1b-02eb-4803-8944-b0d1fe6ba6d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="2bUHqyiwIHCvLyEvGKGZXFAoORY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public_html" />
+      <recent name="$PROJECT_DIR$/src/imports" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/migrations" />
+      <recent name="$PROJECT_DIR$/src/interfaces" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SalesTableTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SalesTableTest" file="$PROJECT_DIR$/tests/SalesTableTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.SalesTableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02516d1b-02eb-4803-8944-b0d1fe6ba6d2" name="Default Changelist" comment="" />
+      <created>1706262931151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706262931151</updated>
+      <workItem from="1706262932258" duration="22397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="108" width="826" height="684" key="#CLI_Interpreters" timestamp="1706262978731">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="383" y="108" width="826" height="684" key="#CLI_Interpreters/0.28.1600.844@0.28.1600.844" timestamp="1706262978731" />
+    <state x="589" y="131" width="443" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1706284170955">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="589" y="131" width="443" height="638" key="#com.intellij.ide.util.MemberChooser/0.28.1600.844@0.28.1600.844" timestamp="1706284170955" />
+    <state x="99" y="128" width="1402" height="645" key="DiffContextDialog" timestamp="1706288822288">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="99" y="128" width="1402" height="645" key="DiffContextDialog/0.28.1600.844@0.28.1600.844" timestamp="1706288822288" />
+    <state width="1554" height="209" key="GridCell.Tab.0.bottom" timestamp="1706301277986">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state width="1554" height="209" key="GridCell.Tab.0.bottom/0.28.1600.844@0.28.1600.844" timestamp="1706301277986" />
+    <state width="1554" height="209" key="GridCell.Tab.0.center" timestamp="1706301277986">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state width="1554" height="209" key="GridCell.Tab.0.center/0.28.1600.844@0.28.1600.844" timestamp="1706301277986" />
+    <state width="1554" height="209" key="GridCell.Tab.0.left" timestamp="1706301277985">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state width="1554" height="209" key="GridCell.Tab.0.left/0.28.1600.844@0.28.1600.844" timestamp="1706301277985" />
+    <state width="1554" height="209" key="GridCell.Tab.0.right" timestamp="1706301277986">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state width="1554" height="209" key="GridCell.Tab.0.right/0.28.1600.844@0.28.1600.844" timestamp="1706301277986" />
+    <state x="289" y="85" key="SettingsEditor" timestamp="1706262984189">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="289" y="85" key="SettingsEditor/0.28.1600.844@0.28.1600.844" timestamp="1706262984189" />
+    <state x="99" y="128" width="1402" height="645" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1706298765893">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="99" y="128" width="1402" height="645" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.28.1600.844@0.28.1600.844" timestamp="1706298765893" />
+    <state x="99" y="128" width="1386" height="645" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1706299688979">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="99" y="128" width="1386" height="645" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.28.1600.844@0.28.1600.844" timestamp="1706299688979" />
+    <state x="474" y="256" width="644" height="389" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1706300892339">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="474" y="256" width="644" height="389" key="com.jetbrains.php.test.PhpNewTestDialog/0.28.1600.844@0.28.1600.844" timestamp="1706300892339" />
+    <state x="490" y="189" width="620" height="580" key="find.popup" timestamp="1706299482591">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="490" y="189" width="620" height="580" key="find.popup/0.28.1600.844@0.28.1600.844" timestamp="1706299482591" />
+    <state x="632" y="211" width="327" height="478" key="refactoring.ChangeSignatureDialog" timestamp="1706272937315">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="632" y="211" width="327" height="478" key="refactoring.ChangeSignatureDialog/0.28.1600.844@0.28.1600.844" timestamp="1706272937315" />
+    <state x="463" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1706268188169">
+      <screen x="0" y="28" width="1600" height="844" />
+    </state>
+    <state x="463" y="193" width="672" height="678" key="search.everywhere.popup/0.28.1600.844@0.28.1600.844" timestamp="1706268188169" />
+  </component>
+</project>
